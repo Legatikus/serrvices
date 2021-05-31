@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: Mulish, sans-serif;
+    src: url(../fonts/Mulish-Bold.woff2) format("woff2");
+    src: url(../fonts/Mulish-Light.woff2) format("woff2");
+    src: url(../fonts/Mulish-Regular.woff2) format("woff2");
+}
